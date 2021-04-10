@@ -1,0 +1,4 @@
+#忽略www根目录下所有pdf的文件
+www/*.pdf
+#忽略node_modules/jquery 下的index.js
+node_modules/**/*.js
